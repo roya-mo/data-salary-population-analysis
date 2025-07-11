@@ -37,7 +37,7 @@ This project is an exploratory and statistical analysis of salary data for data 
   ![Average Salary Over Years](https://github.com/roya-mo/data-salary-population-analysis/blob/664b2350970d96c306a2306eebcdac2b0145bd20/Average%20Salary%20Over%20Years.png)
 
 - **Average Salary by Continent and Company Size**  
-  ![Average Salary by Continent and Company Size]([Average Salary by Continent and Company Size.png](https://github.com/roya-mo/data-salary-population-analysis/blob/664b2350970d96c306a2306eebcdac2b0145bd20/Average%20Salary%20by%20Continent%20and%20Company%20Size.png)
+  ![Average Salary by Continent and Company Size](https://github.com/roya-mo/data-salary-population-analysis/blob/bfdd67add551a4dbb9826555fdd7da470a2404ac/Average%20Salary%20by%20Continent%20and%20Company%20Size.png)
 
 - **Average Salary by Experience Level and Remote Work Status**  
   ![Average Salary by Experience Level and Remote Work Status](https://github.com/roya-mo/data-salary-population-analysis/blob/664b2350970d96c306a2306eebcdac2b0145bd20/Average%20Salary%20by%20Experience%20Level%20and%20Remote%20Work%20Status.png)
