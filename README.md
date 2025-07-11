@@ -32,8 +32,17 @@ This project is an exploratory and statistical analysis of salary data for data 
 
 
 ### Sample Visualizations
-_(You can upload sample plots here or paste images as `.png` files if you want)_
+- **Average Salary Over Years**
+ ![Average Salary Over Years](Average Salary Over Years.png)
 
+- **Average Salary by Continent and Company Size**
+ ![Average Salary by Continent and Company Size](Average Salary by Continent and Company Size.png)
+
+- **Average Salary by Experience Level and Remote Work Status**
+ ![Average Salary by Experience Level and Remote Work Status](Average Salary by Experience Level and Remote Work Status.png)
+
+- **Average Salary vs Population Growth Rate**
+ ![Average Salary vs Population Growth Rate](Average Salary vs Population Growth Rate.png)
 
 ### Author
 **Roya Mohammadi**  
