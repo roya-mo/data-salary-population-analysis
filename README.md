@@ -31,18 +31,20 @@ This project is an exploratory and statistical analysis of salary data for data 
 - **Pearson Correlation**: Relationship between population growth and salary
 
 
-### Sample Visualizations
-- **Average Salary Over Years**
- ![Average Salary Over Years](Average Salary Over Years.png)
+###  Sample Visualizations
 
-- **Average Salary by Continent and Company Size**
- ![Average Salary by Continent and Company Size](Average Salary by Continent and Company Size.png)
+- **Average Salary Over Years**  
+  ![Average Salary Over Years](images/average_salary_over_years.png)
 
-- **Average Salary by Experience Level and Remote Work Status**
- ![Average Salary by Experience Level and Remote Work Status](Average Salary by Experience Level and Remote Work Status.png)
+- **Average Salary by Continent and Company Size**  
+  ![Average Salary by Continent and Company Size](images/salary_by_continent_company_size.png)
 
-- **Average Salary vs Population Growth Rate**
- ![Average Salary vs Population Growth Rate](Average Salary vs Population Growth Rate.png)
+- **Average Salary by Experience Level and Remote Work Status**  
+  ![Average Salary by Experience Level and Remote Work Status](images/salary_by_experience_remote.png)
+
+- **Average Salary vs Population Growth Rate**  
+  ![Average Salary vs Population Growth Rate](images/salary_vs_population_growth.png)
+
 
 ### Author
 **Roya Mohammadi**  
