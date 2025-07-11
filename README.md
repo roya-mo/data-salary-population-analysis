@@ -34,16 +34,16 @@ This project is an exploratory and statistical analysis of salary data for data 
 ###  Sample Visualizations
 
 - **Average Salary Over Years**  
-  ![Average Salary Over Years](images/average_salary_over_years.png)
+  ![Average Salary Over Years](https://github.com/roya-mo/data-salary-population-analysis/blob/664b2350970d96c306a2306eebcdac2b0145bd20/Average%20Salary%20Over%20Years.png)
 
 - **Average Salary by Continent and Company Size**  
-  ![Average Salary by Continent and Company Size](images/salary_by_continent_company_size.png)
+  ![Average Salary by Continent and Company Size]([Average Salary by Continent and Company Size.png](https://github.com/roya-mo/data-salary-population-analysis/blob/664b2350970d96c306a2306eebcdac2b0145bd20/Average%20Salary%20by%20Continent%20and%20Company%20Size.png)
 
 - **Average Salary by Experience Level and Remote Work Status**  
-  ![Average Salary by Experience Level and Remote Work Status](images/salary_by_experience_remote.png)
+  ![Average Salary by Experience Level and Remote Work Status](https://github.com/roya-mo/data-salary-population-analysis/blob/664b2350970d96c306a2306eebcdac2b0145bd20/Average%20Salary%20by%20Experience%20Level%20and%20Remote%20Work%20Status.png)
 
 - **Average Salary vs Population Growth Rate**  
-  ![Average Salary vs Population Growth Rate](images/salary_vs_population_growth.png)
+  ![Average Salary vs Population Growth Rate](https://github.com/roya-mo/data-salary-population-analysis/blob/664b2350970d96c306a2306eebcdac2b0145bd20/Average%20Salary%20vs%20Population%20Growth%20Rate.png)
 
 
 ### Author
